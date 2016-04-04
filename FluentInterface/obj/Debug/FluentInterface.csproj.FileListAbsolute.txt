@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\FluentInterface\FluentInterface\bin\Debug\FluentInterface.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\FluentInterface\FluentInterface\bin\Debug\FluentInterface.exe
+c:\users\admin\documents\visual studio 2012\Projects\FluentInterface\FluentInterface\bin\Debug\FluentInterface.pdb
+c:\users\admin\documents\visual studio 2012\Projects\FluentInterface\FluentInterface\obj\Debug\FluentInterface.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\FluentInterface\FluentInterface\obj\Debug\FluentInterface.exe
+c:\users\admin\documents\visual studio 2012\Projects\FluentInterface\FluentInterface\obj\Debug\FluentInterface.pdb
